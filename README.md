@@ -44,8 +44,8 @@ example: `/endpoint?apikey={yourapikey}`
 | Fields          | Type           | Info                | ex:                            |
 |-----------------|----------------|---------------------|--------------------------------|
 | date            | `isodate`      | date and time of ceremony| 2018-12-19T11:45:00.000Z       |
-| name            | `string`       | location of ceremony| Cimetière de Montparnasse      |
-| address         | `string`       | adress of ceremony  | 3 rue de Rivoli, 75014 Paris   |
+| name            | `string`       | location of ceremony| Forest Lawn Memorial Parks      |
+| address         | `string`       | address of ceremony  | 3 rue de Rivoli, 75014 Paris   |
 | type            | `string`       | `ceremony`, `contemplation`, `interment` or `cremation`|     |
 
 
@@ -55,8 +55,8 @@ example: `/endpoint?apikey={yourapikey}`
 
 | Fields          | Type           | Info                | ex:                            |
 |-----------------|----------------|---------------------|--------------------------------|
-| name            | `string `      | first and last names| Sophie Dupont                  |
-| phone           | `string `      |                     | 0601020304                     |
+| name            | `string `      | first and last names| Sophia Paladi                  |
+| phone           | `string `      |                     | 2128674567                     |
 
 
 
